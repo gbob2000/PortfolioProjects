@@ -1,3 +1,4 @@
+--Alex Freberg YouTube tutorial project
 SELECT *
 FROM CovidPortfolioProject..CovidDeaths
 WHERE continent is not null
